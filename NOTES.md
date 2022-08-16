@@ -1,0 +1,2 @@
+-   Install [Tailwind](https://tailwindcss.com/docs/guides/create-react-app)
+-   Install [Recoil](https://recoiljs.org/fr/docs/introduction/getting-started/): state management lib
